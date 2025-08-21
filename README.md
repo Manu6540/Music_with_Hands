@@ -24,10 +24,10 @@ An interactive web app built with threejs, mediapipe computer vision, rosebud AI
 
 ```bash
 # Clone this repository
-git clone https://github.com/collidingScopes/arpeggiator
+git repo clone Manu6540/Music_with_Hands
 
 # Navigate to the project directory
-cd arpeggiator
+cd Music_with_Hands
 
 # Serve with your preferred method (example using Python)
 python -m http.server
