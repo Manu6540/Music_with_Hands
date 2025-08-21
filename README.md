@@ -35,10 +35,6 @@ python -m http.server
 
 Then navigate to `http://localhost:8000` in your browser.
 
-## License
-
-MIT License
-
 ## Credits
 
 - Three.js - https://threejs.org/
